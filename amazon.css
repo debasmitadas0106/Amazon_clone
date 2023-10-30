@@ -1,0 +1,60 @@
+#search {
+    width: 400px;
+    height: 38px;
+    margin-top: 13px;
+    margin-bottom: 0px;
+}
+
+.custom-size {
+    width: 48px;
+    height: 38px;
+    margin-top: 13px;
+    margin-left:0px;
+    margin-bottom: 0px;
+}
+.custom-padding {
+    margin-top: 13px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+.custom-height {
+   height:60px;
+}
+.padder{
+    padding-left:5px;
+}
+.custom-font1{
+    font-size: 14px;
+}
+.custom-font2{
+    font-size: 15px;
+}
+.custom-width{
+    width:170px;
+    height:20px;
+
+}
+.custom-padding-setting{
+    position:absolute;
+    top:18px;
+    left:0px;
+}
+.custom-padding-setting2{
+    position:absolute;
+    top:24px;
+    left:0px;
+}
+.custom-padding-setting3{
+    position:absolute;
+    top:18px;
+    left:0px;
+}
+.custom-padding-setting4{
+    position:absolute;
+    top:25px;
+    left:0px;
+}
+.returns-width{
+    width:100px;
+    height:20px;
+}
